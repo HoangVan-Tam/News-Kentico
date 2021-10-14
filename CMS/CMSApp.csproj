@@ -1096,6 +1096,9 @@
     <Content Include="App_Themes\IntranetPortal\Images\WebpartProperties\rightbottom.png" />
     <Content Include="App_Themes\IntranetPortal\Images\WebpartProperties\righttop.png" />
     <Content Include="App_Themes\IntranetPortal\Skin.css" />
+    <Content Include="App_Themes\News\css\slicknav.css" />
+    <Content Include="App_Themes\News\css\style.css" />
+    <Content Include="App_Themes\News\js\jquery.slicknav.js" />
     <Content Include="CMSAdminControls\Basic\DisabledModuleInfo.ascx" />
     <Content Include="CMSAdminControls\CKeditor\adapters\jquery.js" />
     <Content Include="CMSAdminControls\CKeditor\ckeditor.js" />
@@ -21637,6 +21640,7 @@
     <Content Include="CMSScripts\CMSModules\CMS\Tabs.js" />
     <Content Include="CMSScripts\CMSModules\CMS.PageTemplates\TemplateSelector.localization.json" />
     <Content Include="App_Themes\Default\CMSModules\cms.onlinemarketing\cms.onlinemarketing.abtestpopup.less" />
+    <Content Include="App_Themes\News\img\logo.png" />
     <None Include="Old_App_WebReferences\WS\WebService.discomap" />
     <None Include="Old_App_WebReferences\WS\WebService.wsdl" />
     <Content Include="CMSAdminControls\web.config" />
