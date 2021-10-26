@@ -20853,6 +20853,9 @@
     <Compile Include="Old_App_Code\CMSModules\Widgets\WidgetTreeControlExtender.cs" />
     <Compile Include="Old_App_Code\CMS\Functions.cs" />
     <Compile Include="Old_App_Code\CMS\UpgradeProcedure.cs" />
+    <Compile Include="Old_App_Code\TranfomationMethods.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
