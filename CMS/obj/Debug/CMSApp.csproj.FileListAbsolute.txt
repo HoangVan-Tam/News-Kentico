@@ -441,8 +441,8 @@ E:\Đi Làm\News\News-Kentico\CMS\bin\zh-Hans\System.Spatial.resources.dll
 E:\Đi Làm\News\News-Kentico\CMS\bin\zh-Hant\System.Spatial.resources.dll
 E:\Đi Làm\News\News-Kentico\CMS\bin\CMS.DocumentEngine.Web.UI.XmlSerializers.dll
 E:\Đi Làm\News\News-Kentico\CMS\bin\CMS.LicenseProvider.XmlSerializers.dll
-E:\Đi Làm\News\News-Kentico\CMS\obj\Debug\CMSApp.csproj.AssemblyReference.cache
 E:\Đi Làm\News\News-Kentico\CMS\obj\Debug\CMSApp.csproj.CoreCompileInputs.cache
 E:\Đi Làm\News\News-Kentico\CMS\obj\Debug\CMSApp.csproj.CopyComplete
 E:\Đi Làm\News\News-Kentico\CMS\obj\Debug\CMSApp.dll
 E:\Đi Làm\News\News-Kentico\CMS\obj\Debug\CMSApp.pdb
+E:\Đi Làm\News\News-Kentico\CMS\obj\Debug\CMSApp.csproj.AssemblyReference.cache
