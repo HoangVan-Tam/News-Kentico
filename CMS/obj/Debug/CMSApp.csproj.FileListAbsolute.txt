@@ -445,4 +445,3 @@ E:\Đi Làm\News\News-Kentico\CMS\obj\Debug\CMSApp.csproj.CoreCompileInputs.cach
 E:\Đi Làm\News\News-Kentico\CMS\obj\Debug\CMSApp.csproj.CopyComplete
 E:\Đi Làm\News\News-Kentico\CMS\obj\Debug\CMSApp.dll
 E:\Đi Làm\News\News-Kentico\CMS\obj\Debug\CMSApp.pdb
-E:\Đi Làm\News\News-Kentico\CMS\obj\Debug\CMSApp.csproj.AssemblyReference.cache
